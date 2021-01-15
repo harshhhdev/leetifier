@@ -1,7 +1,30 @@
 # numifier
 
-My first Python project. 7h15 5m411 c0mm4nd 11n3 7001 7urn5 73x7 1n70 numb3r5.
+A simple Python script which turns text into numbers.
 
-This was made out of extreme boredom as my internet was out. 
+*check out the [java version](https://github.com/harshhhdev/text-play)*
 
-If you like it, make sure to give it a star ;)
+# What's this? 
+
+Confused a bit? Here's an explaination:
+
+```bash
+Enter your text to numify:
+
+# input
+Hello World!
+
+# output 
+=> H3110 W0r1d!
+```
+
+# Building :rocket:
+
+```bash
+# Clone this project
+git clone https://github.com/harshhhdev/numifier.git
+
+cd numifier
+
+python main.py
+```
