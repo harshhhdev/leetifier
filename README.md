@@ -1,7 +1,3 @@
-# numifier
-
-A simple Python script which turns text into numbers.
-
 *check out the [java version](https://github.com/harshhhdev/text-play)*
 
 # What's this? 
@@ -22,7 +18,7 @@ Hello World!
 
 ```bash
 # Clone this project
-git clone https://github.com/harshhhdev/numifier.git
+git clone https://github.com/harshhhdev/leetifier.git
 
 cd numifier
 
